@@ -49,3 +49,39 @@ Perform the following tasks:
 Your task is to write Python code to perform these operations on
  the "justice_league" list. Display the list at each step to observe
  the changes.
+
+d. If Condition 
+1. Write a program to determine the BMI Category based on user input. 
+Ask the user to: 
+Enter height in meters 
+Enter weight in kilograms 
+Calculate BMI using the formula: BMI = weight / (height)2 
+Use the following categories: 
+If BMI is 30 or greater, print "Obesity" 
+If BMI is between 25 and 29, print "Overweight" 
+If BMI is between 18.5 and 25, print "Normal" 
+If BMI is less than 18.5, print "Underweight" 
+Example: 
+Enter height in meters: 1.75 
+Enter weight in kilograms: 70 
+Output: "Normal" 
+2. Write a program to determine which country a city belongs to. Given
+ list of cities per country: 
+Australia = ["Sydney", "Melbourne", "Brisbane", "Perth"] 
+UAE = ["Dubai", "Abu Dhabi", "Sharjah", "Ajman"] 
+India = ["Mumbai", "Bangalore", "Chennai", "Delhi"] 
+Ask the user to enter a city name and print the corresponding country.
+3. Write a program to check if two cities belong to the same country.
+ Ask the user to enter two cities and print whether they belong to the
+ same country or not.
+
+e. Dictionary 
+1. Create a list of your friends' names. The list should have at least 5 names.
+ Create a list of tuples. Each tuple should contain a friend's name and the length
+ of the name. 
+For example, if someone’s name is Aditya, the tuple would be: ('Aditya', 6).
+2. You and your partner are planning a trip, and you want to track expenses.
+ Create two dictionaries, one for your expenses and one for your partner's
+ expenses. Each dictionary should contain at least 5 expense categories and their
+ corresponding amounts
+
