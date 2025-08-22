@@ -1,6 +1,6 @@
 # Shadow-Fox
 Python Development Internship Tasks – ShadowFox
-## Task Level (Beginner)
+## Task 1(Beginner)
 a. Variables 
 1. Create a variable named pi and store the value 22/7 in it.
  Now check the data type of this variable. 
@@ -85,3 +85,8 @@ For example, if someone’s name is Aditya, the tuple would be: ('Aditya', 6).
  expenses. Each dictionary should contain at least 5 expense categories and their
  corresponding amounts
 
+## Task 2(Intermediate Level):
+1. Web Scraper: Extract data from websites using libraries like
+ Beautiful Soup or Scrapy. 
+2. Hangman: Implement the wordguessing game with visual
+ progress and hints.
