@@ -1,3 +1,5 @@
+#HERE WE ARE EXTRACTING 5 QUESTION FROM THE 4 TOPIC FROM THE INDIA BIX WEBSITE.
+
 import requests
 from bs4 import BeautifulSoup
 
